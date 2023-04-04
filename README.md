@@ -5,7 +5,7 @@ An HTML Canvas implementation of Minesweeper, plus eventually functionality to s
 ## Plan
 
 1. ~~Set up Svelte, Jest, Prettier~~
-2. Create rudimentary page wherein to store game
+2. ~~Create rudimentary page wherein to store game~~
 3. Create Node class to store all data:
    - `isMine`: Boolean
    - `isFlagged`: Boolean
